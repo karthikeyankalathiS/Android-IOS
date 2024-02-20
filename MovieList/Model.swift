@@ -7,8 +7,6 @@
 
 import Foundation
 
-import Foundation
-
 struct MovieListResponse: Codable {
     let dates: Dates
     let page: Int
